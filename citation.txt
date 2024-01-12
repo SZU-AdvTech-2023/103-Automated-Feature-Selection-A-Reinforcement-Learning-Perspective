@@ -1,0 +1,9 @@
+@article{REPO103,
+    author = "Liu, Kunpeng and Fu, Yanjie and Wu, Le and Li, Xiaolin and Aggarwal, Charu and Xiong, Hui",
+    journal = "IEEE Transactions on Knowledge and Data Engineering",
+    number = "3",
+    pages = "2272-2284",
+    title = "{Automated Feature Selection: A Reinforcement Learning Perspective}",
+    volume = "35",
+    year = "2023"
+}
